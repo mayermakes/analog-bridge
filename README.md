@@ -189,4 +189,8 @@ Issues and pull requests are welcome. When reporting a hardware or firmware prob
 
 ## License
 
-No license file is currently included in this repository. Until a license is added, the contents should not be assumed to be available for unrestricted reuse.
+This project is licensed under the [Open Community License v1.1 (OCL v1.1)](LICENSE), without add-on conditions.
+
+OCL v1.1 grants non-commercial users the right to use, copy, modify, and repair the project and requires distributed derivatives to remain under OCL. Commercial business use is limited to internal use unless a separate business or repair license is obtained. See [`LICENSE`](LICENSE) for the complete terms.
+
+Third-party components and dependencies distributed with or alongside this project remain under their respective licenses where those licenses are incompatible with OCL. The authoritative OCL text and available add-ons are maintained by the [OpenCommunityLicence project](https://github.com/OpenCommunityLicence/OpenCommunityLicence).
